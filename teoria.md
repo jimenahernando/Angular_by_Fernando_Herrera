@@ -161,3 +161,6 @@ Nos permite duplicar elementos, se escribe dentro del objeto html que se queire 
 Con el snippet a-module te crea la estructura basica de modulo
 
 Al separarlos en modulos, genera un error porque el *ngIf y *ngFor requieren del CommonModule. Por lo tanto, habrá que importalo en el modulo de heroes.
+
+## Git 
+git checkout -- . reconstruye el proyecto en el ultimo commit
